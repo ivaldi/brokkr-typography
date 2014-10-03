@@ -1,0 +1,23 @@
+{
+  "name": "brokkr-typography",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ivaldi/brokkr-typography",
+  "authors": [
+    "Ivaldi <info@ivaldi.nl>"
+  ],
+  "description": "Typography helper classes for headings & paragraphs.",
+  "main": "typography.min.css",
+  "keywords": [
+    "oocss",
+    "css",
+    "typography"
+  ],
+  "license": "GNU Affero General Public License Version 3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
