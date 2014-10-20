@@ -12,6 +12,9 @@
 .text-normal{ font-weight: normal; }
 .text-strong{ font-weight: 800; }
 
+.text-regular{ font-style: normal; }
+.text-italic{ font-style: italic; }
+
 .text-dec-none{ text-decoration: none; }
 .text-dec-strike{ text-decoration: line-through; }
 .text-dec-line{ text-decoration: underline; }
