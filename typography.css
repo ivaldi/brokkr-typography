@@ -1,29 +1,29 @@
-.heading-xxl{ font-size: 3em; }
-.heading-xl{ font-size: 2.5em }
-.heading-l{ font-size: 2em }
-.heading-m{ font-size: 1.8em }
-.heading-s{ font-size: 1.2em }
-.heading-xs{ font-size: .9em }
+.heading-xxl { font-size: 3em; }
+.heading-xl { font-size: 2.5em }
+.heading-l { font-size: 2em }
+.heading-m { font-size: 1.8em }
+.heading-s { font-size: 1.2em }
+.heading-xs { font-size: .9em }
 
-.text-lowercase{ text-transform: lowercase; }
-.text-uppercase{ text-transform: uppercase; }
+.text-lowercase { text-transform: lowercase; }
+.text-uppercase { text-transform: uppercase; }
 
-.text-thin{ font-weight: 100; }
-.text-normal{ font-weight: normal; }
-.text-strong{ font-weight: 800; }
+.text-thin { font-weight: 100; }
+.text-normal { font-weight: normal; }
+.text-strong { font-weight: 800; }
 
-.text-regular{ font-style: normal; }
-.text-italic{ font-style: italic; }
+.text-regular { font-style: normal; }
+.text-italic { font-style: italic; }
 
-.text-dec-none{ text-decoration: none; }
-.text-dec-strike{ text-decoration: line-through; }
-.text-dec-line{ text-decoration: underline; }
+.text-dec-none { text-decoration: none; }
+.text-dec-strike { text-decoration: line-through; }
+.text-dec-line { text-decoration: underline; }
 
-.text-lh-s{ line-height: .8; }
-.text-lh-m{ line-height: 1.2; }
-.text-lh-l{ line-height: 1.5; }
-.text-lh-xl{ line-height: 1.8; }
+.text-lh-s { line-height: .8; }
+.text-lh-m { line-height: 1.2; }
+.text-lh-l { line-height: 1.5; }
+.text-lh-xl { line-height: 1.8; }
 
-.text-s{ font-size: .8em; }
-.text-m{ font-size: 1em; }
-.text-l{ font-size: 1.2em; }
+.text-s { font-size: .8em; }
+.text-m { font-size: 1em; }
+.text-l { font-size: 1.2em; }
